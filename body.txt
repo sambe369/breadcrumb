@@ -1,0 +1,10 @@
+<div class="Rectangle-85">
+    <p>Welcome to Onthecase.io! <span class="rectangle-info">Setup your firm name</span> or <span class="rectangle-info">Invite a new user.</span> <span class="close-button">&#10540;</span> </p>
+  </div>
+  <div class="group">
+    <div class="image">
+      
+    </div>
+    <div class="navbar"></div>
+    <div class="avatar"></div>
+  </div>
